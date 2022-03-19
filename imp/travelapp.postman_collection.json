@@ -189,7 +189,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"full_name\" :\"Samee\",\r\n    \"email\" :\"samee@gmail.com \",\r\n    \"phone_number\" :\"9999529999\",\r\n    \"address\" :\"KTM\",\r\n    \"psw\" :\"123456\"\r\n}",
+					"raw": "{\r\n    \"full_name\" :\"aashish\",\r\n    \"email\" :\"aashishkarki11@gmail.com \",\r\n    \"phone_number\" :\"9860479959\",\r\n    \"address\" :\"KTM\",\r\n    \"psw\" :\"9860479959\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -221,7 +221,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"email\": \"samee@gmail.com\",\r\n    \"password\": \"123456\"\r\n}",
+					"raw": "{\r\n    \"email\": \"aashishkarki11@gmail.com\",\r\n    \"password\": \"lol@123\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

@@ -4,11 +4,11 @@ Features:
 Register=>CREATE
  create a new user with fields
 
- full_name=>jyoti sharma
- address=>budhanilakhantha
- email=>jyoti@gmail.com
+ full_name=>Aashish Karki
+ address=>baneshwor
+ email=>aashishkarki11@gmail.com
  
- password=>parjajja
+ password=>lol@123
 
 
     
@@ -32,6 +32,9 @@ Delete          DELETE
 API:
 REST API:
 REST:protocol
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 pahila website mai gayera register/login garnuparthyo vane aba API banayepaxi postman batai data pathauna paiyo
 
